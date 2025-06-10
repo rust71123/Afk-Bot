@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "rust7.aternos.me",
     "port": 25565,
     "version": "1.19.3"
   },
