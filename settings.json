@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "AFK BOT",
+    "password": "bot123",
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "rust7.aternos.me",
     "port": 25565,
     "version": "1.19.3"
   },
